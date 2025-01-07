@@ -1,0 +1,5 @@
+C:/Users/admin/Desktop/test_vscode32/test/build/Debug/CMakeFiles/test.dir
+C:/Users/admin/Desktop/test_vscode32/test/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/test_vscode32/test/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Desktop/test_vscode32/test/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/test_vscode32/test/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
